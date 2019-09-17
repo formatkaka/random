@@ -5,3 +5,5 @@
 <h3>  - Harold Abelson, Gerald Jay Sussman, Julie Sussman. “Structure and Interpretation of Computer Programs, Second Edition”. Apple Books. `</h3>
 
 `Everything seems stupid when it fails.` - Fyodor Dostoevsky
+
+`We must all suffer one of two things: the pain of discipline or the pain of regret or disappointment.` - Jim Rohn
